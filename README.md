@@ -4,16 +4,15 @@
 
 Submitted by: **Maribel Gordon**
 
-Time spent: **X** hours spent in total
+Time spent: **16** hours spent in total (8 hours coding + 8 hours computer setup/Swift/Xcode/Git study time)
 
 ## User Stories
 
 The following **required** functionality is complete:
-
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
+* [ ] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [X] Remembering the bill amount across app restarts (if <10mins)
 * [X] Using locale-specific currency and currency thousands separators.
@@ -21,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Will be updating more features upon code review (complete all optional features)
 
 ## Video Walkthrough 
 
